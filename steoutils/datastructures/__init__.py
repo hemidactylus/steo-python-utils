@@ -1,2 +1,2 @@
-from .dicts import groupBy, groupBys
+from .dicts import groupBy, groupBys, flipTwoLevelDict
 from .lists import uniquify
